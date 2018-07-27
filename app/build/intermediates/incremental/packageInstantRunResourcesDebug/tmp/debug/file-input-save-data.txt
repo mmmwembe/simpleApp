@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Wed Jul 25 20:34:31 EDT 2018
+2.base=C\:\\Users\\mmm11\\Desktop\\AI\\tensorflow\\tensorflow\\contrib\\lite\\java\\demo\\app\\build\\intermediates\\assets\\debug
+0.path=labels.txt
+2.baseType=DIRECTORY
+3.base=C\:\\Users\\mmm11\\Desktop\\AI\\tensorflow\\tensorflow\\contrib\\lite\\java\\demo\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.path=labels_mobilenet_quant_v1_224.txt
+4.base=C\:\\Users\\mmm11\\Desktop\\AI\\tensorflow\\tensorflow\\contrib\\lite\\java\\demo\\app\\build\\intermediates\\assets\\debug
+count=5
+2.path=mobilenet_quant_v1_224.tflite
+4.set=ASSET
+3.path=labels_imagenet_slim.txt
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=BUILD
+1.baseType=DIRECTORY
+0.base=C\:\\Users\\mmm11\\Desktop\\AI\\tensorflow\\tensorflow\\contrib\\lite\\java\\demo\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=C\:\\Users\\mmm11\\Desktop\\AI\\tensorflow\\tensorflow\\contrib\\lite\\java\\demo\\app\\build\\intermediates\\assets\\debug
+4.baseType=DIRECTORY
+0.set=ASSET
